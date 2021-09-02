@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/englitch/static/css/main.d3d1a26e.chunk.css",
+    "main.css": "/englitch/static/css/main.75ba6b80.chunk.css",
     "main.js": "/englitch/static/js/main.f3c185d0.chunk.js",
     "main.js.map": "/englitch/static/js/main.f3c185d0.chunk.js.map",
     "runtime-main.js": "/englitch/static/js/runtime-main.534177e3.js",
@@ -9,10 +9,10 @@
     "static/js/2.33d5a8f2.chunk.js": "/englitch/static/js/2.33d5a8f2.chunk.js",
     "static/js/2.33d5a8f2.chunk.js.map": "/englitch/static/js/2.33d5a8f2.chunk.js.map",
     "index.html": "/englitch/index.html",
-    "precache-manifest.595f753ea418fa1daf69ca75e9485f31.js": "/englitch/precache-manifest.595f753ea418fa1daf69ca75e9485f31.js",
+    "precache-manifest.cb31cbdda5c92a62d1098152cd771b1c.js": "/englitch/precache-manifest.cb31cbdda5c92a62d1098152cd771b1c.js",
     "service-worker.js": "/englitch/service-worker.js",
     "static/css/2.69121389.chunk.css.map": "/englitch/static/css/2.69121389.chunk.css.map",
-    "static/css/main.d3d1a26e.chunk.css.map": "/englitch/static/css/main.d3d1a26e.chunk.css.map",
+    "static/css/main.75ba6b80.chunk.css.map": "/englitch/static/css/main.75ba6b80.chunk.css.map",
     "static/js/2.33d5a8f2.chunk.js.LICENSE.txt": "/englitch/static/js/2.33d5a8f2.chunk.js.LICENSE.txt",
     "static/media/ENGLITCH.png": "/englitch/static/media/ENGLITCH.e54181f1.png"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.534177e3.js",
     "static/css/2.69121389.chunk.css",
     "static/js/2.33d5a8f2.chunk.js",
-    "static/css/main.d3d1a26e.chunk.css",
+    "static/css/main.75ba6b80.chunk.css",
     "static/js/main.f3c185d0.chunk.js"
   ]
 }

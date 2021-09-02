@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5de5fd7b49afa8db4f041a073187a55e",
+    "revision": "93a9c83126f283e575ad6bf1ba4faddf",
     "url": "/englitch/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/englitch/static/css/2.69121389.chunk.css"
   },
   {
-    "revision": "0f35760d30813b98c307",
-    "url": "/englitch/static/css/main.d3d1a26e.chunk.css"
+    "revision": "3d1e9a088439736e24b6",
+    "url": "/englitch/static/css/main.75ba6b80.chunk.css"
   },
   {
     "revision": "3343cba2f20f7bcb4828",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/englitch/static/js/2.33d5a8f2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0f35760d30813b98c307",
+    "revision": "3d1e9a088439736e24b6",
     "url": "/englitch/static/js/main.f3c185d0.chunk.js"
   },
   {
