@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/englitch/static/css/main.75ba6b80.chunk.css",
-    "main.js": "/englitch/static/js/main.f3c185d0.chunk.js",
-    "main.js.map": "/englitch/static/js/main.f3c185d0.chunk.js.map",
+    "main.css": "/englitch/static/css/main.0b9cf4d2.chunk.css",
+    "main.js": "/englitch/static/js/main.5947c43d.chunk.js",
+    "main.js.map": "/englitch/static/js/main.5947c43d.chunk.js.map",
     "runtime-main.js": "/englitch/static/js/runtime-main.534177e3.js",
     "runtime-main.js.map": "/englitch/static/js/runtime-main.534177e3.js.map",
     "static/css/2.69121389.chunk.css": "/englitch/static/css/2.69121389.chunk.css",
     "static/js/2.33d5a8f2.chunk.js": "/englitch/static/js/2.33d5a8f2.chunk.js",
     "static/js/2.33d5a8f2.chunk.js.map": "/englitch/static/js/2.33d5a8f2.chunk.js.map",
     "index.html": "/englitch/index.html",
-    "precache-manifest.cb31cbdda5c92a62d1098152cd771b1c.js": "/englitch/precache-manifest.cb31cbdda5c92a62d1098152cd771b1c.js",
+    "precache-manifest.72e5a967ba21e46244585cfb9122ffcf.js": "/englitch/precache-manifest.72e5a967ba21e46244585cfb9122ffcf.js",
     "service-worker.js": "/englitch/service-worker.js",
     "static/css/2.69121389.chunk.css.map": "/englitch/static/css/2.69121389.chunk.css.map",
-    "static/css/main.75ba6b80.chunk.css.map": "/englitch/static/css/main.75ba6b80.chunk.css.map",
+    "static/css/main.0b9cf4d2.chunk.css.map": "/englitch/static/css/main.0b9cf4d2.chunk.css.map",
     "static/js/2.33d5a8f2.chunk.js.LICENSE.txt": "/englitch/static/js/2.33d5a8f2.chunk.js.LICENSE.txt",
     "static/media/ENGLITCH.png": "/englitch/static/media/ENGLITCH.e54181f1.png"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.534177e3.js",
     "static/css/2.69121389.chunk.css",
     "static/js/2.33d5a8f2.chunk.js",
-    "static/css/main.75ba6b80.chunk.css",
-    "static/js/main.f3c185d0.chunk.js"
+    "static/css/main.0b9cf4d2.chunk.css",
+    "static/js/main.5947c43d.chunk.js"
   ]
 }
